@@ -1,0 +1,10 @@
+/_build
+/cover
+/deps
+erl_crash.dump
+*.ez
+wikipedia.dat
+*.txt
+plwiki-20170301-all-titles
+*.iml
+.idea/
