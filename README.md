@@ -1,17 +1,4 @@
 # EagerLazyParallel
 
-**TODO: Add description**
+Kod ilustrujący zagadnienie różnego podejścia do przetwarzania danych. Wpis na [koziolekweb](https://koziolekweb.pl/2017/03/16/zachlannie-leniwie-wspolbieznie-czego-nauczylem-sie-od-jose-valima/)
 
-## Installation
-
-  1. Add eager_lazy_parallel to your list of dependencies in mix.exs:
-
-        def deps do
-          [{:eager_lazy_parallel, "~> 0.0.1"}]
-        end
-
-  2. Ensure eager_lazy_parallel is started before your application:
-
-        def application do
-          [applications: [:eager_lazy_parallel]]
-        end
